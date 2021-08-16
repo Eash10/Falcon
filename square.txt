@@ -1,1 +1,3 @@
 square is now blue
+total area of shape is 10cm
+

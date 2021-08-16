@@ -1,1 +1,1 @@
-square is green
+square is now blue
